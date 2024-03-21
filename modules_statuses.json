@@ -1,0 +1,14 @@
+{
+    "Auth": true,
+    "Home": true,
+    "User": true,
+    "Otp": true,
+    "Panel": true,
+    "Category": true,
+    "Role": true,
+    "Post": true,
+    "Comment": true,
+    "Share": true,
+    "Advertising": true,
+    "Settings": true
+}
